@@ -12,4 +12,4 @@ Frontend Mentor has provided both Desktop and Mobile designs in the design folde
 
 ## What I've Learnt Throughout The Challenge
 
-A small challenge like this is great for me to practise using figma to build a design. I've learnt a bit about :hover in CSS aswell as box-shadows. Tools like this will prove usefull in later projects. 
+A small challenge like this is great for me to practise using figma to build a design. I've learnt a bit about :hover in CSS aswell as box-shadows. Tools like this will prove useful in later projects. 
